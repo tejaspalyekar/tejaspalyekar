@@ -1,6 +1,6 @@
 ### Hi there, I'm Tejas 👋
 
-🚀 Aspiring Computer Engineer | Flutter Developer Extraordinaire 📱
+🚀 Aspiring Computer Engineer | Flutter Developer📱
 
 Welcome to my world of coding wonders! 👋 I'm Tejas Palyekar, a passionate Computer Engineering student with an insatiable thirst for crafting innovative mobile experiences. 🌟 Flutter has become my playground, and I take pride in building mesmerizing apps that captivate users.
 
