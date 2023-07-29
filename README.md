@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tejas 👋
 
 🚀 Aspiring Computer Engineer | Flutter Developer Extraordinaire 📱
 
