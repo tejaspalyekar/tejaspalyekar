@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Tejas Palyekar</h1>
 
 <p align="center">
-    🚀 Mobile App Developer | 📱 Flutter, React Native, Native Android | 🔌 IoT Explorer | 💡 Building apps people love
+    🚀 Mobile App Developer | 📱 Flutter, React Native, Native Android | 🔌 IoT & Cyber Security Explorer | 💡 Building apps people love
 </p>
 
 <p align="center">
