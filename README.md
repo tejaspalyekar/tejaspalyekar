@@ -17,29 +17,29 @@
 
 I'm a **Mobile App Developer** at **Quantasis**, passionate about crafting clean, scalable, and high-performing applications for Android and iOS using **Flutter**, **React Native**, and **Native Android**.
 
-💼 **Current Focus**: Building production-grade apps for **FMCG**, **E-commerce**, **Healthcare**, and **Loyalty Programs** with live deployments on **Play Store**, **App Store**, and **Indus Appstore**.
+👀 **Beyond Apps**: Curious about **IoT** solutions, explored smart security systems & cyber security.
 
-👀 **Beyond Apps**: Curious about **IoT** solutions, explored smart security systems, real-time alerting with ESP8266, and Android integrations.
-
-⚡ **What drives me**: I love clean UI, meaningful UX, structured architecture (MVVM/BLoC), and getting things to PRODUCTION 🚀.
+⚡ **What drives me**: I love clean UI, meaningful UX, structured architecture (MVVM/MVC/clean), and getting things to PRODUCTION 🚀.
 
 ---
 
 ## 🚀 Tech Snapshot
 
 **Languages & Frameworks:**  
-`Dart`, `Flutter`, `React Native`, `Java`, `Kotlin`, `JavaScript`, `Node.js`
+`Dart`, `Java`, `Kotlin`, `JavaScript`,`Flutter`, `React Native`, `Express.js,`
 
 **Architecture Patterns:**  
-`MVVM`, `BLoC`, `Provider`, `Clean Architecture`
+`MVVM`, `MVC`,`Clean Architecture`
 
 **DevOps & Tools:**  
 `GitHub Actions`, `Fastlane`, `Firebase`, `App Store Connect`, `Google Play Console`, `Jira`, `Figma`
 
 **Special Mentions:**  
-- IoT integration with ESP8266 🌐  
-- Realtime features with WebRTC & Jitsi  
+- IoT integration 🌐  
+- Realtime features with WebRTC & Jitsi
+- Payment gateway integrations 
 - CI/CD pipelines for mobile 📲
+- Automation
 
 ---
 
